@@ -1,0 +1,11 @@
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ClassificadorDeTicks\ClassificadorDeTicks\bin\Release\ClassificadorDeTicks.exe.config
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ClassificadorDeTicks\ClassificadorDeTicks\bin\Release\ClassificadorDeTicks.exe
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ClassificadorDeTicks\ClassificadorDeTicks\bin\Release\ClassificadorDeTicks.pdb
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ClassificadorDeTicks\ClassificadorDeTicks\bin\Release\Newtonsoft.Json.dll
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ClassificadorDeTicks\ClassificadorDeTicks\bin\Release\Newtonsoft.Json.xml
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ClassificadorDeTicks\ClassificadorDeTicks\obj\Release\ClassificadorDeTicks.FrmPrincipal.resources
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ClassificadorDeTicks\ClassificadorDeTicks\obj\Release\ClassificadorDeTicks.Properties.Resources.resources
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ClassificadorDeTicks\ClassificadorDeTicks\obj\Release\ClassificadorDeTicks.csproj.GenerateResource.Cache
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ClassificadorDeTicks\ClassificadorDeTicks\obj\Release\ClassificadorDeTicks.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ClassificadorDeTicks\ClassificadorDeTicks\obj\Release\ClassificadorDeTicks.exe
+C:\Users\bruno\Documents\Visual Studio 2017\Projects\ClassificadorDeTicks\ClassificadorDeTicks\obj\Release\ClassificadorDeTicks.pdb
